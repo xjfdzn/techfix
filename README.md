@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT. <br>
 - JDBC (Java Database Connectivity)
 - Framework iReport (gerar e imprimir relatórios)
 
-### obrigado :smiley:
+### Thanks for Reading :heart:
