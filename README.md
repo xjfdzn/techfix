@@ -1,6 +1,8 @@
 # ☕ TechFix - Software de Gerenciamento de Ordem de Serviço
 Sistema em Desktop para gestão de ordem de serviços de uma assistência técnica de eletrônicos.
 
+
+## 🔖 Layout
 ![sistemaOS](https://github.com/professorjosedeassis/infox/blob/master/assets/sistemaOS.png)
 
 
@@ -27,10 +29,10 @@ Fabricio Borges
 2.rs2xml | [Download](https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
 
 
-## Liçensa
-![GitHub](https://img.shields.io/github/license/professorjosedeassis/infoX)
+## :memo: Licença
+![GitHub](https://img.shields.io/github/license/professorjosedeassis/infoX) Esse projeto está sob a licença MIT.
 
-## Tecnologias Utilizadas:
+## ## 🚀 Tecnologias
 - Netbeans IDE
 - Criação do banco e das tabelas no MySQL
 - Java SE
