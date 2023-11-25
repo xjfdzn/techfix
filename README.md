@@ -1,8 +1,8 @@
-# ☕ TechFix - Software de Gerenciamento de Ordem de Serviço
+# TechFix - Software de Gerenciamento de Ordem de Serviço
 Sistema em Desktop para gestão de ordem de serviços de uma assistência técnica de eletrônicos.
 
 <p>
-> TechFix é um projeto acadêmico escrito em Java, faz parte da matéria de Linguagem Orientada a Objetos (POO) <br>
+> TechFix é um projeto acadêmico escrito em Java ☕, faz parte da matéria de Linguagem Orientada a Objetos (POO) <br>
     - Alem do software, foi realizado a documentação com estudo de caso + diagrama de classes. <br>
 </p>
 
@@ -31,7 +31,7 @@ Fabricio Borges
 #### Configurações do iReport
 • É necessario indicar o jdkpath nas configs do Jaspersoft referente ao jdk7u80 para instalar o iReport <br>
 • Precisa-se também criar um usuário no mysql exclusivo do iReport, com nome 'dba' e todos os privilegios <br>
-• Ao instalar o iReport e criar o usuário é necessario configurar a conexão do mesmo como no exemplo abaixo: <br>
+• Ao instalar o iReport e criar o usuário é necessario configurar a conexão do mesmo como no exemplo abaixo: <br> <br>
 ![conexaoreport](https://github.com/xjfdzn/techfix/blob/main/ireportcnf.png)
 
 
