@@ -27,7 +27,7 @@ Sistema em Desktop para gestão de ordem de serviços de uma assistência técni
 
 
 ## 🔖 Layout
-![sistemaOS](https://github.com/professorjosedeassis/infox/blob/master/assets/sistemaOS.png)
+![telaOS](https://github.com/xjfdzn/techfix/blob/main/preview.png)
 
 
 ## Feito Por
