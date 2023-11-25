@@ -17,11 +17,6 @@ Software de Gerenciamento de Ordem de Serviço. <br/>
 
 <br>
 
-<p align="center">
-  <img alt="projeto TechFix" src=".github/preview.png" width="100%">
-</p>
-
-
 # ☕ TechFix - Software de Gerenciamento de Ordem de Serviço
 Sistema em Desktop para gestão de ordem de serviços de uma assistência técnica de eletrônicos.
 
